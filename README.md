@@ -1,4 +1,4 @@
-﻿# Emotion Detection from Political tweets
+﻿# Emotion Detection from Political Tweets
 
  This is a repository for a (part of a) research project on determining the effects of negative negative campaigning on the electorate's emotional states and their subsequent voting behavior. This part of the project concerns detection of emotions (anger and fear) in the tweets that were posted as direct replies to election candidates' campaign messages during the UK 2019 parliamentary elections. 
 
